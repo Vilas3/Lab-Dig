@@ -1,4 +1,5 @@
 # Laboratório Digital
+  Repositório dos projetos desenvolvidos ao longo da disciplina PCS3635- Laboratório Digital 1 na Escola Politécinica da USP. Outro repositório auxiliar para o projeto final é o seguinte: https://github.com/hmoyen/sky_simulator.git
 ## Simulação Terminal Linux
 
   Primeiramente, baixe em ZIP o repositório e extraia os arquivos ou dê o comando no terminal:
